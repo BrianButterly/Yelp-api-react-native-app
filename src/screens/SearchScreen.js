@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { View, Text, StyleSheet } from "react-native";
-import { set } from "react-native-reanimated";
 import SearchBar from "../components/SearchBar";
 
 const SearchScreen = () => {
